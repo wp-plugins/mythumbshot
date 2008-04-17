@@ -1,9 +1,7 @@
 === Site-Thumb ===
 Tags: Website, Thumbnail, images, artViper
 Current Version: 1.0 (initial version)
-Contributors: Kay-Rules
-Requires at least: 2.0
-Tested up to: 2.2.1
+Stable tag: 1.0
 
 
 === Mythumbshot ===
@@ -26,6 +24,6 @@ Mythumbahot enables you to display website thumbnail in your posts. It using myt
 ******************************************************
 
 == Frequently Asked Questions ==
-- Why isn't it working?
-- Your container-div's ID isn't named "content"
-- Your post-div's CLASS NAME isn't named "entry"
+= Why isn't it working? =
+Your container-div's ID isn't named "content"
+Your post-div's CLASS NAME isn't named "entry"
