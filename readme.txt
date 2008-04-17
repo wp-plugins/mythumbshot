@@ -23,5 +23,5 @@ Mythumbshot enables you to display website thumbnail in your posts. It using myt
 
 == Frequently Asked Questions ==
 = Why isn't it working? =
-Your container-div's ID isn't named "content"
-Your post-div's CLASS NAME isn't named "entry"
+1. Your container-div's ID isn't named "content"
+2. Your post-div's CLASS NAME isn't named "entry"
