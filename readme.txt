@@ -1,11 +1,10 @@
 === My thumbshot ===
 Tags: Website, Thumbnail, images, artViper
 Current Version: 1.0 (initial version)
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 === Mythumbshot ===
-Current Version: 1.0 (initial version)
 Tags: website, thumbshot, thumb, thumbnail, images, mythumbshot
 
 == Description ==
@@ -20,8 +19,6 @@ Mythumbahot enables you to display website thumbnail in your posts. It using myt
 == Installation ==
 1. Place the plugin in /wp-content/plugins/wp-mythumbshot
 2. Activate the plugin, that's it!
-
-******************************************************
 
 == Frequently Asked Questions ==
 = Why isn't it working? =
