@@ -1,11 +1,10 @@
 === My thumbshot ===
 Tags: Website, Thumbnail, images, artViper
 Current Version: 1.0 (initial version)
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 === Mythumbshot ===
-Current Version: 1.0 (initial version)
 Tags: website, thumbshot, thumb, thumbnail, images, mythumbshot
 
 == Description ==
