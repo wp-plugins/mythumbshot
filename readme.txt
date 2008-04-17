@@ -1,14 +1,13 @@
 === My thumbshot ===
-Tags: Website, Thumbnail, images, artViper
+Tags: website, thumbnail, images, mythumbshot, thumbshot
 Current Version: 1.1
+Requires at least: 1.0
+Contributors: Mythumbshot, 
+Tested up to: 1.1
 Stable tag: 1.1
 
-
-=== Mythumbshot ===
-Tags: website, thumbshot, thumb, thumbnail, images, mythumbshot
-
 == Description ==
-Mythumbahot enables you to display website thumbnail in your posts. It using mythumbshot website thumbnail.
+Mythumbshot enables you to display website thumbnail in your posts. It using mythumbshot website thumbnail.
 
 
 == Features ==
