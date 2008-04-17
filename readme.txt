@@ -1,6 +1,6 @@
 === My thumbshot ===
 Tags: Website, Thumbnail, images, artViper
-Current Version: 1.0 (initial version)
+Current Version: 1.1
 Stable tag: 1.1
 
 
