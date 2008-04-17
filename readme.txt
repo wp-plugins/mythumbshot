@@ -1,4 +1,4 @@
-=== Site-Thumb ===
+=== My thumbshot ===
 Tags: Website, Thumbnail, images, artViper
 Current Version: 1.0 (initial version)
 Stable tag: 1.0
