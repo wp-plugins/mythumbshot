@@ -16,7 +16,7 @@ Mythumbshot enables you to display website thumbnail in your posts. It using myt
 2. Using mythumbshot website (FREE)
 
 == Installation ==
-1. Place the plugin in /wp-content/plugins/wp-mythumbshot
+1. Place the plugin in /wp-content/plugins/mythumbshot
 2. Activate the plugin, that's it!
 
 ******************************************************
