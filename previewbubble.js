@@ -56,14 +56,14 @@ function attachBubble(_b, url_image) {
 	var _f=findPos(_c)[1]+17;
 	var _10=document.createElement("div");
 	_10.className="previewbubble";
-	_10.setAttribute("style","text-align: left;z-index: 99999;position: absolute;top: "+_f+"px ;left: "+_e+"px ;background: url("+ bubbleImagePath +");width: 175px;height: 133px;padding-top: 8px;padding-left: 8px;padding-bottom: 0;padding-right: 0;margin: 0;");
+	_10.setAttribute("style","text-align: left;z-index: 99999;position: absolute;top: "+_f+"px ;left: "+_e+"px ;background: url("+ bubbleImagePath +");width: 175px;height: 118px;padding-top: 8px;padding-left: 8px;padding-bottom: 0;padding-right: 0;margin: 0;");
 	_10.style.width="175px";
 	_10.style.position="absolute";
 	_10.style.top=_f;
 	_10.style.zIndex=99999;
 	_10.style.left=_e;
 	_10.style.textAlign="left";
-	_10.style.height="133px";
+	_10.style.height="118px";
 	_10.style.paddingTop="16px";
 	_10.style.paddingLeft="15px";
 	_10.style.paddingBottom="15px";
