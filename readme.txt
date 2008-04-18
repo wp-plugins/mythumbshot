@@ -1,9 +1,9 @@
 === My thumbshot ===
 Tags: website, thumbnail, images, mythumbshot, thumbshot
 Current Version: 1.1
-Requires at least: 1.0
+Requires at least: 2.2.3
 Contributors: Mythumbshot, 
-Tested up to: 1.1
+Tested up to: 2.2.3
 Stable tag: 1.1
 
 == Description ==
